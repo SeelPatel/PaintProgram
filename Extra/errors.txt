@@ -1,0 +1,2 @@
+ERROR: 2017-01-26 14:54:31.264000 : Problem opening image
+ERROR: 2017-01-26 15:03:20.264000 : Problem opening image

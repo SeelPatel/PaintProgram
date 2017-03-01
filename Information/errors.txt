@@ -1,0 +1,4 @@
+
+ERROR: 2016-12-27 14:57:55.574596 : Pygame could not initialized
+ERROR: 2016-12-27 14:58:40.954201 : Pygame could not initialized
+ERROR: 2017-01-02 19:30:55.164443 : Ran into problem importing tool images
